@@ -1,0 +1,4 @@
+Hola amigos este es un avance de un login que toma como referencia los formularios web basados en UX, pero en este 
+caso para un entorno de escritorio, esta realizado con los componentes swift de java y el IDE Netbeans, espero que 
+les sirva de referencia. gracias...
+
